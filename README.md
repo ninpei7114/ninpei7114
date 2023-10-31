@@ -4,6 +4,8 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ninpei7114&theme=onedark&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ninpei7114&theme=onedark)
+
 
 <!--
 **ninpei7114/ninpei7114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
