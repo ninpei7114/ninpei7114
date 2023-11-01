@@ -5,7 +5,7 @@
 </p>
 
 <p align="left"> 
-  <img alt="trophy" height="180px" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ninpei7114&theme=onedark](https://github-profile-trophy.vercel.app/?username=ninpei7114&theme=onedark&column=9)" />
+  <img alt="trophy" height="180px" src="[![trophy](https://github-profile-trophy.vercel.app/?username=ninpei7114&theme=onedark&column=9)](https://github.com/ryo-ma/github-profile-trophy)" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ninpei7114&theme=onedark&column=9)](https://github.com/ryo-ma/github-profile-trophy)
