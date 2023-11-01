@@ -8,10 +8,12 @@
   <img alt="profile-details" width="765px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ninpei7114&theme=onedark" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ninpei7114&theme=onedark&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> 
+  <img alt="github-chart" width="765px" src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ninpei7114&theme=onedark](https://github-chart.vercel.app/api?user=ninpei7114)](https://github.com/ninpei7114/github-chart)" />
+</p>
 
 [![github-chart](https://github-chart.vercel.app/api?user=ninpei7114)](https://github.com/ninpei7114/github-chart)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ninpei7114&theme=onedark&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **ninpei7114/ninpei7114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
