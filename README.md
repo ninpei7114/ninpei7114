@@ -5,11 +5,11 @@
 </p>
 
 <p align="left"> 
-  <img alt="profile-details" height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ninpei7114&theme=onedark" />
+  <img alt="profile-details" height="180px" width="400px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ninpei7114&theme=onedark" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ninpei7114&theme=onedark&column=9)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ninpei7114&theme=onedark)
+
 [![github-chart](https://github-chart.vercel.app/api?user=ninpei7114)](https://github.com/ninpei7114/github-chart)
 
 
