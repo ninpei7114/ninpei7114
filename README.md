@@ -5,7 +5,7 @@
 </p>
 
 <p align="left"> 
-  <img alt="trophy" height="180px" src="[![trophy](https://github-profile-trophy.vercel.app/?username=ninpei7114&theme=onedark&column=9)](https://github.com/ryo-ma/github-profile-trophy)" />
+  <img alt="profile-details" height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ninpei7114&theme=onedark" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ninpei7114&theme=onedark&column=9)](https://github.com/ryo-ma/github-profile-trophy)
