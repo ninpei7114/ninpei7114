@@ -4,6 +4,7 @@
   <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=ninpei7114&theme=onedark&show_icons=true" />
 </p>
 
+<img alt="trophy" height="180px" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ninpei7114&theme=onedark](https://github-profile-trophy.vercel.app/?username=ninpei7114&theme=onedark&column=9)" />
 [![trophy](https://github-profile-trophy.vercel.app/?username=ninpei7114&theme=onedark&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ninpei7114&theme=onedark)
 [![github-chart](https://github-chart.vercel.app/api?user=ninpei7114)](https://github.com/ninpei7114/github-chart)
