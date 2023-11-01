@@ -9,7 +9,7 @@
 </p>
 
 <p align="left"> 
-  <img alt="profile-details" width="770px" src="https://github-chart.vercel.app/api?user=ninpei7114" />
+  <img alt="profile-details" width="770px" src="https://github-chart.vercel.app/api?user=ninpei7114&theme=onedark" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ninpei7114&theme=onedark&column=9)](https://github.com/ryo-ma/github-profile-trophy)
