@@ -8,11 +8,7 @@
   <img alt="profile-details" width="765px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ninpei7114&theme=onedark" />
 </p>
 
-<p align="left"> 
-  <img alt="github-chart" width="765px" src="https://github-chart.vercel.app/api?user=ninpei7114)](https://github.com/ninpei7114/github-chart" />
-</p>
-
-[![github-chart](https://github-chart.vercel.app/api?user=ninpei7114)](https://github.com/ninpei7114/github-chart)
+[![github-chart](https://github-chart.vercel.app/api?user=ninpei7114)](https://github.com/ninpei7114/github-chart){width="765px"}
 [![trophy](https://github-profile-trophy.vercel.app/?username=ninpei7114&theme=onedark&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
